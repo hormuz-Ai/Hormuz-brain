@@ -1,4 +1,5 @@
 <p align="center"><img 
+ src="https://raw.githubusercontent.com/hormuz-Ai/hormuz-ai/main/logo.png"                   
 <p align="center"><img src="logo.png" width="180" alt="Hormuz AI"></p>
 
 # Agent Registry
